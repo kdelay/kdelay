@@ -2,17 +2,19 @@
 
   ![header](https://capsule-render.vercel.app/api?type=Cylinder&&color=877cc3&height=150&section=header&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62&text=kdelay)
 
-  <br/><br/>
-  
-  ## Welcome to my github page :blush:
+  ### Welcome to my github page :blush:
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdelay&show_icons=true&theme=radical)
-  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdelay2000)](https://solved.ac/kdelay2000)
+  <p>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kdelay&show_icons=true&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdelay&layout=compact&theme=tokyonight&langs_count=8"/>
+  </p>
 
 ---
   
   ### Skills
+  
+   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdelay2000)](https://solved.ac/kdelay2000)
+  
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
