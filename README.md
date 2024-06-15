@@ -2,7 +2,7 @@
 
   ![header](https://capsule-render.vercel.app/api?type=Cylinder&&color=877cc3&height=150&section=header&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62&text=kdelay)
 
-  ### Welcome to my github page :blush:
+  ### Welcome to my github page! :blush:
 
   <p>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kdelay&show_icons=true&theme=tokyonight"/>
