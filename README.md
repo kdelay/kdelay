@@ -15,6 +15,7 @@
   
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kdelay2000)](https://solved.ac/kdelay2000)
+<img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg"/>
   
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
@@ -26,7 +27,6 @@
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
   
   ### Blog / Contact
   <a href="https://cojyeon.tistory.com/"><img src="https://img.shields.io/badge/TISTORY-FF8800?style=flat&logo=tistory&logoColor=white"/></a>
